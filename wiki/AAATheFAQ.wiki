@@ -1,7 +1,6 @@
 #summary Frequently asked user questions. READ ME FIRST!
-#labels Featured
 
-*Please don't modify this document unless you are authorized to do so.*
+*This copy of the FAQ is no longer updated. Please see [http://www.classilla.org/ the main Classilla site] for its current location.*
 
 = FAQ =
 
